@@ -25,4 +25,10 @@ As result, we can confirm that the function works. 2 iterations of 1 second took
 
 ![image](https://github.com/Rafaelatff/ESP32-bitRate/assets/58916022/5f3d7757-ed34-433b-91e0-3a1d54810e77)
 
-##
+I also increase the clock speed, later I can text some other features (see Improving Overall Speed).
+
+## WiFi
+
+Now using the API guide for [How to improve Wi-Fi performance](https://docs.espressif.com/projects/esp-idf/en/v4.4.2/esp32/api-guides/wifi.html#how-to-improve-wi-fi-performance)...
+
+()
